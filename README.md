@@ -1,6 +1,3 @@
-iis_php7.3
-
-
 For Xampp
 
 1. Paste the library under ~/ext/
