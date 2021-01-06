@@ -5,4 +5,5 @@ For Xampp
 
 
 extension=php_sqlsrv_73_ts.dll
+
 extension=php_pdo_sqlsrv_73_ts.dll
